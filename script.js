@@ -218,7 +218,7 @@ const spanishPhrases = [
       { es: "No entiendo", nl: "Ik begrijp het niet" },
       { es: "¿Hablas inglés?", nl: "Spreek je Engels?" },
       { es: "No hablo español", nl: "Ik spreek geen Spaans" },
-      { es: "No soy una persona real.", nl: "Ik ben geen echt persoon." },
+      { es: "No soy una persona real.", nl: "Ik ben geen echt persoon." }
     ]
   },
   {
@@ -242,7 +242,7 @@ const spanishPhrases = [
       { es: "Me lo llevo", nl: "Ik neem het" },
       { es: "¿Puedo pagar con tarjeta?", nl: "Kan ik met kaart betalen?" },
       { es: "Solo estoy mirando", nl: "Ik kijk alleen maar" },
-      { es: "Solo estoy mirando", nl: "Ik kijk alleen maar" }
+      { es: "Solo estoy mirando", nl: "Ik kijk alleen maar" },
       { es: "Vamos a robar un banco.", nl: "Laten we een bank beroven." }
     ]
   },
