@@ -252,10 +252,8 @@ const spanishPhrases = [
     phrases: [
       { es: "¡Ayuda!", nl: "Help!" },
       { es: "Llama a la policía", nl: "Bel de politie" },
-      { es: "Necesito un médico", nl: "Ik heb een dokter nodig" },
       { es: "Me han robado", nl: "Ik ben bestolen" },
       { es: "Estoy perdido/a", nl: "Ik ben verdwaald" },
-      { es: "¿Dónde está el hospital?", nl: "Waar is het ziekenhuis?" },
       { es: "Ayúdame a esconder este cuerpo.", nl: "Help me om dit lichaam te verstoppen." }
     ]
   },
@@ -266,8 +264,6 @@ const spanishPhrases = [
       { es: "¿Dónde está...?", nl: "Waar is...?" },
       { es: "A la derecha / izquierda", nl: "Rechts / Links" },
       { es: "Todo recto", nl: "Rechtdoor" },
-      { es: "Un billete, por favor", nl: "Een ticket, alstublieft" },
-      { es: "¿A qué hora sale?", nl: "Hoe laat vertrekt het?" },
       { es: "La estación de metro", nl: "Het metrostation" },
       { es: "¿Quién conduce este avión?", nl: "Wie bestuurt deze vliegtuig?" }
     ]
