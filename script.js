@@ -306,7 +306,7 @@ const contacts = [
 // ─── 5. CREDITS / CREW ──────────────────────────────────────
 const crew = [
   { name: "Ruben",  emoji: "🌟", role: "Web design lead",  bio: "Eigenlijk alles dat je hier ziet is van mij" },
-  { name: "Axel",   emoji: "🚲", role: "Morale support",   bio: "Idk" },
+  { name: "Axel",   emoji: "🚲", role: "Boss",   bio: "He owns the place." },
   { name: "Lowie",  emoji: "🍟", role: "Algemeen Directeur",       bio: "Whatever the heck dat betekent." }
 ];
 
